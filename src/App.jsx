@@ -84,6 +84,7 @@ function App() {
   function handleRestart(){
     setGameTurns([]);
   }
+  //added a new feature testing push
   return (
     <main>
       <div id="game-container"> 
